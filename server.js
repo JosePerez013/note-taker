@@ -5,7 +5,7 @@ const htmlRoutes = require("./routes/htmlroutes.js");
 
 // Creating port (use this port number throughout)
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 // route middleware
 
