@@ -1,7 +1,7 @@
 // Requiring our express module and routes
 const express = require("express");
 const apiRoutes = require("./routes/apiRoutes");
-const htmlRoutes = require("./routes/htmlroutes.js");
+const htmlRoutes = require("./routes/htmlRoutes.js");
 
 // Creating port (use this port number throughout)
 const app = express();
